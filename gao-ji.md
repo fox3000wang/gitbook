@@ -16,6 +16,7 @@ npm install gitbook-cli -g
 ```
 
 * 启动服务
+
 ```
 cd xxx
 gitbook serve
