@@ -13,9 +13,9 @@
 
 * 安装gitbook的包
 
-  ```bash
-  npm install gitbook-cli -g
-  ```
+```bash
+npm install gitbook-cli -g
+```
 
 * 启动服务
 
