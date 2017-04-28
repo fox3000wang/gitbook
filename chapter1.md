@@ -1,5 +1,8 @@
 # 初级
 
+## 什么是gitbook？
+GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书
+
 ## 需要必备的基础知识
 * git 以及 github 
 * markdown [markdown语法对照](https://stackedit.io/editor)
