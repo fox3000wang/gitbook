@@ -9,6 +9,7 @@
 
 * 略
 
+---
 ### gitbook的安装
 
 * 安装gitbook的包
