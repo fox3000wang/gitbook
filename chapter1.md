@@ -10,4 +10,4 @@
 
 
 ## 新手上路流程
-* 注册gitbook
+* 注册gitbook  [官网](www.gitbook.com)
