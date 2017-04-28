@@ -20,7 +20,6 @@
 * 启动服务
 
 ```
-cd xxx
 gitbook serve
 
 Live reload server started on port: 35729
