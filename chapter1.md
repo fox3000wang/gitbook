@@ -12,6 +12,7 @@
 ## 新手上路流程
 * 注册gitbook  [官网](www.gitbook.com)
 * 可以注册新的账号，但是推荐用github第三方登陆
+* 注册好了以后，就可以在网页上添加一本书，然后就是自己熟悉UI上的各种设置
 
 ## 相关工具
 * gitbook-editer [官网下载](https://www.gitbook.com/editor)
