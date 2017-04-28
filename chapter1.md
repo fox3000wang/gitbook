@@ -13,5 +13,5 @@
 * 注册gitbook  [官网](www.gitbook.com)
 
 ## 相关工具
-* 
+* gitbook-editer [官网下载](https://www.gitbook.com/editor)
 
