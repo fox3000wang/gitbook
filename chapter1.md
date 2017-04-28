@@ -16,4 +16,6 @@
 
 ## 相关工具
 * gitbook-editer [官网下载](https://www.gitbook.com/editor)
+* gitbook-editer其实就是markdown的编辑器，外加git的push和pull等功能。
+* 安装好了以后登陆成功就可以在本地编辑内容
 
