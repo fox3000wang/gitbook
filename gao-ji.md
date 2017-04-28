@@ -10,6 +10,7 @@
 * 略
 
 ### gitbook的安装
+* 安装gitbook的包
 ```bash
 npm install gitbook-cli -g
 ```
