@@ -13,13 +13,13 @@
 
 * 安装gitbook的包
 
-  ```
+  ```bash
   npm install gitbook-cli -g
   ```
 
 * 启动服务
 
-```
+```bash
 gitbook serve
 
 Live reload server started on port: 35729
