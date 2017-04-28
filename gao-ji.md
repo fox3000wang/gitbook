@@ -10,6 +10,8 @@
 * 略
 
 ### gitbook的安装
-
+```
+npm install gitbook-cli -g
+```
 
 *   
