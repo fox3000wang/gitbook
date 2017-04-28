@@ -20,8 +20,6 @@ npm install gitbook-cli -g
 * 启动服务， 在git的项目里启动server，默认的浏览器端口是4000
 
 
-
-
 ```bash
  
 
