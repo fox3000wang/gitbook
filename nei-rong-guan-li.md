@@ -21,4 +21,6 @@ README.md是关于你的书的介绍，而SUMMARY.md中则包含了书目，即�
 ```
 https://git.gitbook.com/用户id/项目名.git
 ```
-    
+你也可以把文档写好以后先push到github上，内容调整好了以后。
+gitbook官网有工具 [Improved GitHub integration](https://www.gitbook.com/blog/releases/github-integration)
+可以把github的项目直接导入到gitbook里
