@@ -17,7 +17,7 @@ README.md是关于你的书的介绍，而SUMMARY.md中则包含了书目，即�
 
 
 ## 内容托管
-在gitbook建立的项目，默认是会放在 
+在gitbook建立的项目，默认是会放在git.gitbook.com
 ```
 https://git.gitbook.com/用户id/项目名.git
 ```
