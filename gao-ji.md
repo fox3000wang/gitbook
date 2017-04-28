@@ -46,6 +46,10 @@ Starting server ...
 Serving book on http://localhost:4000
 ```
 
+* 也可以加参数用别的端口
+```
+ gitbook serve -p 8080
+```
 
 ---
 ## Gitbook的插件支持
