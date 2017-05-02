@@ -3,10 +3,10 @@
 
 ## 内网gitbook文档服务器介绍
 > 由于gitbook启动服务只能打开一本书，书多了就要启动很多服务非常难管理。
+
 > 现在解决的方案就是另外启动一个http server， gitbook只负责把书build出来，然后部署到http server上。
-
-- 
-
+>
+> 现在默认
 
 
 
