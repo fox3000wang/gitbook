@@ -13,6 +13,7 @@ GitBook支持输出多种文档格式：
 * 单HTML网页：支持将内容输出为单页的HTML，不过一般用在将电子书格式转换为PDF或eBook的中间过程；
 * JSON：一般用于电子书的调试或元数据提取。
 
+
 ## 需要必备的基础知识
 * git 以及 github 
 * markdown [markdown语法对照](https://stackedit.io/editor)
@@ -30,5 +31,7 @@ GitBook支持输出多种文档格式：
 * gitbook-editer [官网下载](https://www.gitbook.com/editor)
 * gitbook-editer其实就是markdown的编辑器，外加git的push和pull等功能。
 * 安装好了以后登陆成功就可以在本地编辑内容
+
+![](/assets/8921BAA0-F81B-43AD-B258-B565AEED2E97.png)
 
 
