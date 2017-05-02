@@ -3,6 +3,9 @@
 ## 什么是gitbook？
 GitBook 是一个基于 Node.js 的命令行工具，可使用 Github/Git 和 Markdown 来制作精美的电子书。
 
+![](/assets/266FA7F5-5AE8-4048-B62A-2ED4AA05FEAC.png)
+
+
 GitBook支持输出多种文档格式：
 * 静态站点：GitBook默认输出该种格式，生成的静态站点可直接托管搭载Github Pages服务上；
 * PDF：需要安装gitbook-pdf依赖；
@@ -27,4 +30,5 @@ GitBook支持输出多种文档格式：
 * gitbook-editer [官网下载](https://www.gitbook.com/editor)
 * gitbook-editer其实就是markdown的编辑器，外加git的push和pull等功能。
 * 安装好了以后登陆成功就可以在本地编辑内容
+
 
