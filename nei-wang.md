@@ -3,16 +3,16 @@
 
 ## 内网gitbook文档服务器介绍
 > 由于gitbook启动服务只能打开一本书，书多了就要启动很多服务非常难管理。
-
+>
 > 现在解决的方案就是另外启动一个http server， gitbook只负责把书build出来，然后部署到http server上。
 >
-> 现在默认
+> 现在默认书存放的服务器放在192.168.50.197上
 
 
 
 ## 使用指南
 
-* jenkins 到noet标签下
+* jenkins 到note-learning标签下
 ![](/assets/32B2B435-F63D-4756-B879-AFF48D159EED.png)
 
 * New Item， 拷贝gitbook的配置
