@@ -12,7 +12,7 @@
 
 ## 使用指南
 
-* jenkins 到*note-learning*标签下
+* jenkins 到**note-learning**标签下
 ![](/assets/32B2B435-F63D-4756-B879-AFF48D159EED.png)
 
 * New Item， 拷贝gitbook的配置
