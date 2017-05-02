@@ -18,7 +18,7 @@
 * New Item， 拷贝gitbook的配置
 ![](/assets/3FD47574-87DC-4821-A612-5D28B74420F3.png)
 
-* 替换掉 Repository URL
+* 用你编辑好的gitbook替换掉 Repository URL
 ![](/assets/BBD7CC98-40F3-4A55-B1D8-FDD94FE31B79.png)
 
 * 等待build结束
